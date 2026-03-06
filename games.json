@@ -1,0 +1,22 @@
+[
+{
+"name":"Snake",
+"folder":"snake",
+"cover":"covers/snake.webp",
+"description":"Classic snake game"
+},
+
+{
+"name":"Tetris",
+"folder":"tetris",
+"cover":"covers/tetris.webp",
+"description":"Arrange falling blocks"
+},
+
+{
+"name":"Flappy Bird",
+"folder":"flappybird",
+"cover":"covers/flappy.webp",
+"description":"Fly through pipes"
+}
+]
